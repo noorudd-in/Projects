@@ -6,8 +6,8 @@
 With the rise of COVID-19 and Air pollution, people are now more concern about their health. People from cities like Mumbai, Delhi, Bangalore where the air pollution is high now are in concern about the outdoor air quality they breathe. Keeping such things in mind, we have created Web App for all types of users from anywhere who can use to predict the Air Quality with some or all parameters. We even extend the project by adding the **Explore** page where developers and students can explore different types of graphs and charts to identify the realtion between the paramters or get the domain knowledge. Even if you are just a user, try **Explore** page and have fun :smiley: 
 
 ## :gear: Project Demo
-Application is hosted on Heroku. You can see the [demo](https://airqualityindexcheckerr.herokuapp.com/)
-Detailed walkthrough video for the above project is posted on the Youtube. [Watch Here](https://youtu.be/tqwzk_ST9RU)
+- Application is hosted on Heroku. You can see the [demo](https://airqualityindexcheckerr.herokuapp.com/)
+- Detailed walkthrough video for the above project is posted on the Youtube. [Watch Here](https://youtu.be/tqwzk_ST9RU)
 
 ## :hourglass_flowing_sand: Dataset
 The raw and cleaned dataset is uploaded in the ``` ./Data/``` folder and you can download the files from below link too.
