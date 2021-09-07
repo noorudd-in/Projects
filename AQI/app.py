@@ -1,13 +1,7 @@
-
-import streamlit as st
-from prediction import show_predict_page
-from explore_page import show_explore_page
-
-
 import json
-import requests  
-import streamlit as st 
-from streamlit_lottie import st_lottie  
+import requests
+import streamlit as st
+from streamlit_lottie import st_lottie
 
 
 def load_lottieurl(url: str):
@@ -20,10 +14,10 @@ page = st.sidebar.selectbox("Explore Or Predict", ("Predict", "Explore"))
 
 if page == "Predict":
     lottie_welcome = load_lottieurl("https://assets8.lottiefiles.com/packages/lf20_q5qeoo3q.json")
-    st_lottie(lottie_welcome,key="welcome")
+    st_lottie(lottie_welcome, key="welcome")
     show_predict_page()
 
 else:
     lottie_hello = load_lottieurl("https://assets7.lottiefiles.com/packages/lf20_zlrpnoxz.json")
-    st_lottie(lottie_hello,key="hello")
+    st_lottie(lottie_hello, key="hello")
     show_explore_page()
