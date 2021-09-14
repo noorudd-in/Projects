@@ -6,7 +6,7 @@
 With the rise of COVID-19 and Air pollution, people are now more concern about their health. People from cities like Mumbai, Delhi, Bangalore where the air pollution is high now are in concern about the outdoor air quality they breathe. Keeping such things in mind, we have created Web App for all types of users from anywhere who can use to predict the Air Quality with some or all parameters. We even extend the project by adding the **Explore** page where developers and students can explore different types of graphs and charts to identify the realtion between the paramters or get the domain knowledge. Even if you are just a user, try **Explore** page and have fun :smiley: 
 
 ## :gear: Project Demo
-- Application is hosted on Heroku. You can see the [demo](https://airqualityindexcheckerr.herokuapp.com/)
+- Application is hosted on Heroku. You can see the [demo](https://predictairqualityindex.herokuapp.com/)
 - Detailed walkthrough video for the above project is posted on the Youtube. [Watch Here](https://youtu.be/tqwzk_ST9RU)
 
 ## :hourglass_flowing_sand: Dataset
@@ -16,12 +16,12 @@ The raw and cleaned dataset is uploaded in the ``` ./Data/``` folder and you can
 
 ## :cloud: Machine Learning Models
 Below are the machine learning models used for this project
-- [Linear Regression](https://github.com/noor12401/Projects/blob/main/AQI/2.%20Implementing%20Linear%20and%20Lasso%20Regression.ipynb)
-- [Lasso Regression](https://github.com/noor12401/Projects/blob/main/AQI/2.%20Implementing%20Linear%20and%20Lasso%20Regression.ipynb)
-- [Decision Tree Regressor](https://github.com/noor12401/Projects/blob/main/AQI/3.%20Implementing%20Decision%20Tree.ipynb)
-- [XGBoost Algorithm](https://github.com/noor12401/Projects/blob/main/AQI/4.%20Implementing%20XGBoost%20for%20Regression.ipynb)
-- [Random Forest Classifier](https://github.com/noor12401/Projects/blob/main/AQI/6.%20Implementing%20Random%20Forest%20Classifier%20(Part%202).ipynb)
-- [Artificial Neural Network](https://github.com/noor12401/Projects/blob/main/AQI/7.%20Implementing%20ANN.ipynb)
+- [Linear Regression](https://github.com/noor12401/Projects/blob/main/AQI/model/2.%20Implementing%20Linear%20and%20Lasso%20Regression.ipynb)
+- [Lasso Regression](https://github.com/noor12401/Projects/blob/main/AQI/models/2.%20Implementing%20Linear%20and%20Lasso%20Regression.ipynb)
+- [Decision Tree Regressor](https://github.com/noor12401/Projects/blob/main/AQI/models/3.%20Implementing%20Decision%20Tree.ipynb)
+- [XGBoost Algorithm](https://github.com/noor12401/Projects/blob/main/AQI/models/4.%20Implementing%20XGBoost%20for%20Regression.ipynb)
+- [Random Forest Classifier](https://github.com/noor12401/Projects/blob/main/AQI/models/6.%20Implementing%20Random%20Forest%20Classifier%20(Part%202).ipynb)
+- [Artificial Neural Network](https://github.com/noor12401/Projects/blob/main/AQI/models/7.%20Implementing%20ANN.ipynb)
 
 ## :hammer_and_wrench: Requirements
 - Python 3.5+
