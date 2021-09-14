@@ -7,7 +7,7 @@ With the rise of COVID-19 and Air pollution, people are now more concern about t
 
 ## :gear: Project Demo
 - Application is hosted on Heroku. You can see the [demo](https://predictairqualityindex.herokuapp.com/)
-- Detailed walkthrough video for the above project is posted on the Youtube. [Watch Here](https://youtu.be/tqwzk_ST9RU)
+- Detailed walkthrough video for the above project is posted on the Youtube. [Watch Here](https://youtu.be/1xGruo0jSlU)
 
 ## :hourglass_flowing_sand: Dataset
 The raw and cleaned dataset is uploaded in the ``` ./Data/``` folder and you can download the files from below link too.
