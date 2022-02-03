@@ -32,4 +32,6 @@ Below are the machine learning models used for this project
 
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> Contributors
 - [Nooruddin Shaikh](https://www.linkedin.com/in/nooruddin-shaikh)
-- [Dhanlaxmi](https://www.linkedin.com/in/dhanlaxmi-dhangar-51b868214)
+- [Milind Sai](https://www.linkedin.com/in/milind-sai-2017/)
+- [Kartik Bhargav](https://www.linkedin.com/in/kartik-bhargav-93a3aa1b0)
+- [Saurabh Jejurkar](https://www.linkedin.com/in/saurabh-jejurkar-b80042195)
